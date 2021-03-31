@@ -70,7 +70,8 @@ def main():
     all_script_tags = beautify_and_find_all_script_tags(page_source)
 
     stock = find_stock_value(all_script_tags)
-    print(f" Stock: {stock}")
+
+    print(f"\n Stock: {stock}")
 
     input()
 
