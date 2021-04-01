@@ -1,2 +1,2 @@
-# DarazTools
-These tools will help get insights on products which are not usually available to normal user.
+# EcomTools
+These tools will help get insights on products on Daraz which are not usually available to normal user.
